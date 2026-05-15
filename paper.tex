@@ -1,0 +1,240 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[russian,english]{babel}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+
+\title{GRA Repos Systematizer:\\
+A Mathematical Index of the GRA / Hybrid Resonance / Multiverse Stack}
+
+\author{qqewq}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\selectlanguage{english}
+
+\begin{abstract}
+We propose a mathematical view on the \emph{GRA Repos Systematizer}, 
+a central index for approximately eighty GitHub repositories that form the
+GRA / Hybrid Resonance / Multiverse ecosystem.
+We formalize the repository set as a structured object, introduce
+indexing and categorization operators, and relate them to the underlying
+GRA axis: state space, subjectivity operators, meta-nulling, multiverse
+trajectories, resonance and swarm-level dynamics.
+This text is intended both as conceptual documentation and as a
+lightweight reference for future formal work.
+\end{abstract}
+
+\selectlanguage{russian}
+
+\begin{abstract}
+В работе предлагается математический взгляд на \emph{GRA Repos Systematizer}~---
+центральный индекс примерно восьмидесяти GitHub-репозиториев, образующих
+экосистему GRA / Hybrid Resonance / Multiverse.
+Множество репозиториев рассматривается как структурированный объект; вводятся
+операторы индексирования и категоризации и связываются с осью GRA:
+пространство состояний, операторы субъективности, мета-обнуление,
+мультивселенские траектории, резонанс и роевой уровень динамики.
+Текст одновременно служит концептуальной документацией и лёгкой
+формальной ссылкой для дальнейших исследований.
+\end{abstract}
+
+\selectlanguage{english}
+
+\section{Introduction}
+
+The GRA / Hybrid Resonance / Multiverse stack is implemented as a
+distributed family of repositories maintained under the
+\texttt{github.com/qqewq} account.
+Individually, these repositories explore subjectivity layers, meta-nulling
+operators, multiverse alignment, swarm intelligence, physical embodiments
+and culturally grounded constructs.
+Taken together, they form a conceptual universe that is difficult to
+grasp from source code alone.
+
+The \emph{GRA Repos Systematizer} is a dedicated repository whose mission
+is to provide a structured, mathematically informed index of this universe.
+Rather than treating repositories as a flat list of URLs, we model them as
+elements of a typed set equipped with categorization, projection and
+aggregation operators.
+This paper introduces a compact formalization of that index.
+
+\section{Repository universe as a structured set}
+
+\subsection{The set of repositories}
+
+Let $\mathcal{R}$ denote the set of all repositories that belong to the
+GRA ecosystem under consideration:
+\[
+  \mathcal{R} = \{ r_1, r_2, \dots, r_N \},
+\]
+where each $r_i$ is uniquely identified by its GitHub URL,
+e.g.\ \texttt{https://github.com/qqewq/gra-core},
+\texttt{https://github.com/qqewq/GRA-Subjectivity-Layer}, etc.
+In the current state of the systematizer we have $N \approx 80$.
+
+Each repository $r \in \mathcal{R}$ carries several attributes:
+name, URL, informal description, primary theme
+(e.g.\ subjectivity, meta-nulling, multiverse, swarm, ethnos),
+and its position in the overall GRA architecture
+(core, experimental, application, sandbox).
+We denote the set of possible categories by $\mathcal{C}$.
+
+\subsection{Index and category maps}
+
+The central object of the systematizer is the \emph{index map}
+\[
+  I : \mathcal{R} \rightarrow \mathcal{C},
+\]
+which assigns to each repository $r$ a category $c = I(r) \in \mathcal{C}$.
+In practice, $I$ is realized in the \texttt{README.md} of the
+\texttt{gra-repos-systematizer} repository as a curated, human-readable
+table of sections and lists.
+
+We also consider a richer labeling
+\[
+  L : \mathcal{R} \rightarrow \mathcal{C} \times \mathcal{M}_{\text{axis}},
+\]
+where $\mathcal{M}_{\text{axis}}$ encodes alignment with elements of
+the GRA conceptual axis (state space, subjectivity, meta-nulling,
+multiverse, resonance).
+Formally, for a repository $r$ we can write
+\[
+  L(r) = \bigl( c(r), a(r) \bigr),
+\]
+where $c(r) \in \mathcal{C}$ is a coarse category and
+$a(r) \in \mathcal{M}_{\text{axis}}$ is a vector of booleans or weights
+indicating how strongly $r$ contributes to different dimensions of the axis.
+
+\section{GRA axis: states, subjectivity, multiverse, resonance}
+
+\subsection{State space and trajectories}
+
+We start from a state space $\mathcal{S}$ which encompasses cognitive,
+environmental and cultural states relevant to GRA agents.
+A trajectory is a finite sequence
+\[
+  \tau = (s_0, s_1, \dots, s_T), \quad s_t \in \mathcal{S}.
+\]
+The multiverse is then modeled as the set of admissible trajectories
+\[
+  \mathcal{M} = \{ \tau_i \mid \tau_i \text{ is an admissible trajectory} \}.
+\]
+
+Repositories containing ``Multiverse'' and ``Alignment'' in their names
+implement various algorithms and experimental setups for generating,
+evaluating and aligning trajectories $\tau \in \mathcal{M}$ with respect
+to target functionals and constraints.
+
+\subsection{Subjectivity as an operator}
+
+Let $\mathcal{X}$ be the space of raw information (observations, logs,
+external signals).
+We define a subjectivity operator
+\[
+  \mathcal{O}_{\text{subj}} : \mathcal{X} \rightarrow \mathcal{S}_{\text{subj}},
+\]
+where $\mathcal{S}_{\text{subj}} \subseteq \mathcal{S}$ is the subspace
+of subjectively relevant states.
+Intuitively, $\mathcal{O}_{\text{subj}}$ implements the agent-specific
+filtering, compression and recoding of the world into a subjective
+configuration.
+
+Repositories such as \texttt{GRA-Subjectivity-Layer} and
+\texttt{GRA-Subjective-Evolution} explore how these operators can be
+constructed, parameterized and evolved over time.
+
+\subsection{Meta-nulling and zeroing}
+
+Let $\Theta$ denote the space of subjective parameters:
+beliefs, weights, priorities and other internal degrees of freedom.
+We model meta-nulling as an operator
+\[
+  \mathcal{O}_{\text{null}} : \Theta \rightarrow \Theta,
+\]
+for which there exists a set of reference (``null'') configurations
+$\Theta_0 \subseteq \Theta$ such that
+\[
+  \mathcal{O}_{\text{null}}(\theta) \rightarrow \theta_0 \in \Theta_0
+\]
+under iterated application.
+Informally, meta-nulling aims to detect contradictions and traps and to
+move the system towards a more neutral, meta-stable attractor.
+
+Repositories \texttt{gra-meta-nullification},
+\texttt{GRA-Meta-Nulling-Foundations},
+\texttt{GRA-Meta-Nulling-Multiverse},
+\texttt{GRA-Meta-Zeroing-Chaos},
+\texttt{GRA-Paradox-Zeroing},
+\texttt{gra-zeroing}
+constitute different realizations and experiments around
+$\mathcal{O}_{\text{null}}$.
+
+\subsection{Resonance and swarm dynamics}
+
+The set of agents $\mathcal{A} = \{a_1,\dots,a_N\}$ is treated as a
+resonant swarm, where each agent has internal dynamics $F_i$ and a set
+of interaction functions $G_{ij}$ with others.
+At the level of the global state we can write
+\[
+  s_{t+1} = F(s_t) + R(s_t),
+\]
+where $F$ is the intrinsic evolution and $R$ is the resonance component
+that aggregates cross-agent influences.
+
+Swarm-oriented repositories (\texttt{GRA-Swarm},
+\texttt{gra-swarm-agi}, \texttt{GRA-Swarm-Arena},
+\texttt{GRA-Swarm-Engine}, \texttt{gra\_swarm\_asi},
+\texttt{GRA\_DroneSwarm}) explore different forms of $R$ and relate them
+to emergent intelligence and physical embodiments.
+
+\section{Systematizer as a meta-layer}
+
+\subsection{Index as a meta-operator}
+
+On top of the GRA axis we place the systematizer as a meta-layer:
+it does not introduce new dynamics on $\mathcal{S}$ directly, but
+organizes the code-level artifacts implementing that dynamics.
+Formally, we can view the index map $I$ as an operator
+\[
+  \mathcal{O}_{\text{index}} : \mathcal{R} \rightarrow \mathcal{C},
+\]
+with the following properties:
+\begin{itemize}
+  \item stability under small changes (minor updates of a repository
+        should not change its category);
+  \item extensibility (new elements $r_{N+1}$ can be assigned categories
+        without breaking the existing structure);
+  \item alignment with the conceptual axis (for each $c \in \mathcal{C}$
+        there exists an interpretation in terms of
+        $\mathcal{S}, \mathcal{M}, \mathcal{O}_{\text{subj}},
+         \mathcal{O}_{\text{null}}, R$).
+\end{itemize}
+
+\subsection{Bilingual documentation}
+
+The \texttt{gra-repos-systematizer} repository is designed to be
+bilingual (Russian/English), both in its README and in supporting
+documents such as this paper.
+This reflects the cultural and linguistic context of GRA and allows the
+same mathematical core to be communicated across different communities.
+
+\section{Conclusion}
+
+We have outlined a compact mathematical description of the
+\emph{GRA Repos Systematizer} as a structured index over the GRA /
+Hybrid Resonance / Multiverse repository universe.
+The aim is not to fully axiomatize the stack, but to give a clear axis
+along which individual repositories can be placed and related.
+Future work may refine the label space $\mathcal{M}_{\text{axis}}$,
+introduce richer morphisms between repositories and interpret certain
+transitions as functors in a categorical setting.
+
+\end{document}
