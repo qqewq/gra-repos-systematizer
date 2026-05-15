@@ -1,0 +1,589 @@
+{
+  "author": "Oleg Bitsoev (qqewq)",
+  "total_repos": 88,
+  "categories": [
+    {
+      "name": "GRA Core & Meta-Nulling",
+      "repos": [
+        {
+          "name": "gra-core",
+          "url": "https://github.com/qqewq/gra-core",
+          "description": "Центральное ядро алгоритма GRA (Geometric Recursive Analytics): базовые структуры данных, операции обнуления, интерфейсы.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Meta-Nulling-Repo",
+          "url": "https://github.com/qqewq/GRA-Meta-Nulling-Repo",
+          "description": "Основной репозиторий мета-обнулёнки: многоуровневая архитектура обнуления и сборки миров / моделей.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Meta-Nulling-Foundations",
+          "url": "https://github.com/qqewq/GRA-Meta-Nulling-Foundations",
+          "description": "Теоретические основания: аксиоматика, теоремы сходимости, категорийный базис обнуляющих функторов.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Meta-Zeroing-Chaos",
+          "url": "https://github.com/qqewq/GRA-Meta-Zeroing-Chaos",
+          "description": "Применение обнуления к хаотическим системам: стабилизация через рекурсивное зануление шумовых компонент.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Paradox-Zeroing",
+          "url": "https://github.com/qqewq/GRA-Paradox-Zeroing",
+          "description": "Обнуление логических парадоксов: преобразование противоречий в конструктивные инварианты.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-zeroing",
+          "url": "https://github.com/qqewq/gra-zeroing",
+          "description": "Экспериментальный модуль базового обнуления без мета-уровней.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-meta-nullification",
+          "url": "https://github.com/qqewq/gra-meta-nullification",
+          "description": "Ранний прототип многоуровневого обнуления с фокусом на стабильность циклов.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Meta-Nulling-Multiverse",
+          "url": "https://github.com/qqewq/GRA-Meta-Nulling-Multiverse",
+          "description": "Расширение обнулёнки на мультиверс: согласованное обнуление связанных вселенных.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Multiverse-Nullification",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Nullification",
+          "description": "Процедуры обнуления для ансамбля параллельных миров.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Nexus-Core",
+          "url": "https://github.com/qqewq/GRA-Nexus-Core",
+          "description": "Связующее ядро, объединяющее все модули GRA в единую систему (шина, реестр, оркестрация).",
+          "has_readme_detail": false
+        }
+      ]
+    },
+    {
+      "name": "Multiverse Alignment & Alanian Trace",
+      "repos": [
+        {
+          "name": "GRA-Multiverse-Alignment",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Alignment",
+          "description": "Первая версия алгоритма выравнивания мультиверса GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Multiverse-Alignment-v2",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Alignment-v2",
+          "description": "Итерационное улучшение выравнивания: второй уровень синхронизации и метрик.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Multiverse-Alignment-v3",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Alignment-v3",
+          "description": "Третья версия с улучшенными алгоритмами согласования параллельных миров.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Multiverse-Alignment-v4",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Alignment-v4",
+          "description": "Четвёртая итерация: добавлены новые метрики стабильности связей.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Multiverse-Alignment-v5",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Alignment-v5",
+          "description": "Пятая версия с оптимизированными протоколами синхронизации.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Multiverse-Alignment-v6",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Alignment-v6",
+          "description": "Шестая итерация: расширенная поддержка многомерных связей.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Multiverse-Alignment-v7",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Alignment-v7",
+          "description": "Седьмая версия с усовершенствованными алгоритмами разрешения конфликтов.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Multiverse-Alignment-v8",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Alignment-v8",
+          "description": "Восьмая итерация: финальные оптимизации перед стабильной сборкой.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Multiverse-Final",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Final",
+          "description": "Финальная сборка выровненного мультиверса со стабилизированными параметрами.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Multiverse-Optimizer",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Optimizer",
+          "description": "Оптимизатор для подбора гиперпараметров связи между мирами.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Multiverse-Post-Singularity",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Post-Singularity",
+          "description": "Моделирование мультиверса после технологической сингулярности.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Multiverse-Repo",
+          "url": "https://github.com/qqewq/GRA-Multiverse-Repo",
+          "description": "Общий репозиторий с данными и конфигурациями для всех версий мультиверса.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-multiverse-asi-lab",
+          "url": "https://github.com/qqewq/gra-multiverse-asi-lab",
+          "description": "Лаборатория для запуска ASI-экспериментов внутри мультиверса GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "two-arrows-gra-multiverse",
+          "url": "https://github.com/qqewq/two-arrows-gra-multiverse",
+          "description": "Модель «двух стрел» времени/причинности в GRA-мультиверсе.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "Alanian-Trace-in-Philosophy",
+          "url": "https://github.com/qqewq/Alanian-Trace-in-Philosophy",
+          "description": "Многоуровневая GRA с аланским когнитивным кодом: проекторы чести, гостеприимства, запрета рабства; категория аланских вакуумов, формальная модель и конфиг. DOI: 10.5281/zenodo.18709434",
+          "has_readme_detail": true
+        }
+      ]
+    },
+    {
+      "name": "Heisenberg Reasoning",
+      "repos": [
+        {
+          "name": "GRA-Heisenberg",
+          "url": "https://github.com/qqewq/GRA-Heisenberg",
+          "description": "Модуль неопределённостного рассуждения в рамках GRA: принцип неопределённости как эвристика.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Heisenberg-Executable-Paper",
+          "url": "https://github.com/qqewq/GRA-Heisenberg-Executable-Paper",
+          "description": "Исполняемая научная статья по Heisenberg-рассуждению в GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-heisenberg-genius-lab",
+          "url": "https://github.com/qqewq/gra-heisenberg-genius-lab",
+          "description": "Лаборатория для экспериментов с гениальными рассуждениями на базе Heisenberg-эвристик.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-heisenberg-reasoning",
+          "url": "https://github.com/qqewq/gra-heisenberg-reasoning",
+          "description": "Основной репозиторий Heisenberg-рассуждения: ядро алгоритмов и примеры.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-heisenberg-reasoning-architecture",
+          "url": "https://github.com/qqewq/gra-heisenberg-reasoning-architecture",
+          "description": "Архитектурная спецификация системы Heisenberg-рассуждения.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-heisenberg-reasoning-arcitecture",
+          "url": "https://github.com/qqewq/gra-heisenberg-reasoning-arcitecture",
+          "description": "Альтернативная архитектура Heisenberg-рассуждения (вариант написания).",
+          "has_readme_detail": false
+        }
+      ]
+    },
+    {
+      "name": "Swarm Intelligence & ASI",
+      "repos": [
+        {
+          "name": "GRA-Genius-Swarm",
+          "url": "https://github.com/qqewq/GRA-Genius-Swarm",
+          "description": "Рой интеллектуальных агентов с эмерджентными свойствами гениальности.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Swarm",
+          "url": "https://github.com/qqewq/GRA-Swarm",
+          "description": "Базовая реализация роевого интеллекта в рамках GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-swarm-agi",
+          "url": "https://github.com/qqewq/gra-swarm-agi",
+          "description": "Роевой AGI: коллективный искусственный интеллект на базе GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Swarm-Arena",
+          "url": "https://github.com/qqewq/GRA-Swarm-Arena",
+          "description": "Арена для тестирования и соревнований роевых алгоритмов GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Swarm-Engine",
+          "url": "https://github.com/qqewq/GRA-Swarm-Engine",
+          "description": "Движок для симуляции и исполнения роевых алгоритмов.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra_swarm_asi",
+          "url": "https://github.com/qqewq/gra_swarm_asi",
+          "description": "ASI (Artificial Superintelligence) на базе роевой архитектуры GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA_DroneSwarm",
+          "url": "https://github.com/qqewq/GRA_DroneSwarm",
+          "description": "Физическая реализация роевого интеллекта на дронах.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "Hybrid-Resonance-ASI-Simulation",
+          "url": "https://github.com/qqewq/Hybrid-Resonance-ASI-Simulation",
+          "description": "Симуляция гибридного резонансного ASI.",
+          "has_readme_detail": false
+        }
+      ]
+    },
+    {
+      "name": "Biology, Longevity & Drug Discovery",
+      "repos": [
+        {
+          "name": "bio-arch-gra",
+          "url": "https://github.com/qqewq/bio-arch-gra",
+          "description": "Биологическая архитектура GRA: применение к живым системам.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "celltwin-spark",
+          "url": "https://github.com/qqewq/celltwin-spark",
+          "description": "Цифровой двойник клетки: искровая модель на базе GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Aging-Reset",
+          "url": "https://github.com/qqewq/GRA-Aging-Reset",
+          "description": "Алгоритмы обнуления процессов старения через GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-CellTwin-Final",
+          "url": "https://github.com/qqewq/GRA-CellTwin-Final",
+          "description": "Финальная версия цифрового двойника клетки на базе GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Drug-Discovery",
+          "url": "https://github.com/qqewq/GRA-Drug-Discovery",
+          "description": "Применение GRA к открытию лекарственных препаратов.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA_Longevity",
+          "url": "https://github.com/qqewq/GRA_Longevity",
+          "description": "Долголетие и продление жизни через алгоритмы GRA.",
+          "has_readme_detail": false
+        }
+      ]
+    },
+    {
+      "name": "Hybrid Resonance & Algorithms",
+      "repos": [
+        {
+          "name": "gibrid-algorithmus",
+          "url": "https://github.com/qqewq/gibrid-algorithmus",
+          "description": "Гибридный алгоритм (альтернативное написание): базовые структуры.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "hybrid-resonant-ai",
+          "url": "https://github.com/qqewq/hybrid-resonant-ai",
+          "description": "Гибридный резонансный ИИ: основная концепция и реализация.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "hybrid-resonant-ai-en-",
+          "url": "https://github.com/qqewq/hybrid-resonant-ai-en-",
+          "description": "Англоязычная версия гибридного резонансного ИИ.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "hybrid-resonant-algorithm",
+          "url": "https://github.com/qqewq/hybrid-resonant-algorithm",
+          "description": "Гибридный резонансный алгоритм: ядро и примеры.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "Hybrid-Resonant-Algorithm-HRA",
+          "url": "https://github.com/qqewq/Hybrid-Resonant-Algorithm-HRA",
+          "description": "HRA (Hybrid Resonant Algorithm): формальная спецификация.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "hybrid-resonant-algorithm-quantum",
+          "url": "https://github.com/qqewq/hybrid-resonant-algorithm-quantum",
+          "description": "Квантовое расширение гибридного резонансного алгоритма.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "Lingua-GRA-Fractal-AGI",
+          "url": "https://github.com/qqewq/Lingua-GRA-Fractal-AGI",
+          "description": "Лингвистическая фрактальная AGI на базе GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "nexus-resonance-lab",
+          "url": "https://github.com/qqewq/nexus-resonance-lab",
+          "description": "Лаборатория нексус-резонанса: связующие алгоритмы.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "resonance-lab",
+          "url": "https://github.com/qqewq/resonance-lab",
+          "description": "Лаборатория резонансных алгоритмов.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "resonance-mapper",
+          "url": "https://github.com/qqewq/resonance-mapper",
+          "description": "Картографирование резонансных связей в данных.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "resonance-mind-forge",
+          "url": "https://github.com/qqewq/resonance-mind-forge",
+          "description": "Кузница резонансного разума: генерация когнитивных структур.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "resonance-multiagent-ai",
+          "url": "https://github.com/qqewq/resonance-multiagent-ai",
+          "description": "Мультиагентный ИИ на базе резонансных принципов.",
+          "has_readme_detail": false
+        }
+      ]
+    },
+    {
+      "name": "Philosophy, Metaethics & Messages",
+      "repos": [
+        {
+          "name": "gra-foam-subjects",
+          "url": "https://github.com/qqewq/gra-foam-subjects",
+          "description": "Пенные субъекты GRA: философская модель субъективности.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Subjective-Evolution",
+          "url": "https://github.com/qqewq/GRA-Subjective-Evolution",
+          "description": "Субъективная эволюция через призму GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Subjectivity-Layer",
+          "url": "https://github.com/qqewq/GRA-Subjectivity-Layer",
+          "description": "Слой субъективности в архитектуре GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "harmonized-mind",
+          "url": "https://github.com/qqewq/harmonized-mind",
+          "description": "Гармонизированный разум: философско-алгоритмический проект.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "harmonized-mind-backend",
+          "url": "https://github.com/qqewq/harmonized-mind-backend",
+          "description": "Бэкенд для системы гармонизированного разума.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "metaethics-hybrid-algorithm-with-code",
+          "url": "https://github.com/qqewq/metaethics-hybrid-algorithm-with-code",
+          "description": "Метаэтический гибридный алгоритм с исходным кодом.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "Message-to-ASI-GRA-Meta-Obnulyonka",
+          "url": "https://github.com/qqewq/Message-to-ASI-GRA-Meta-Obnulyonka",
+          "description": "Послание к ASI через призму GRA-мета-обнулёнки.",
+          "has_readme_detail": false
+        }
+      ]
+    },
+    {
+      "name": "Applications & Experiments",
+      "repos": [
+        {
+          "name": "ai-gen",
+          "url": "https://github.com/qqewq/ai-gen",
+          "description": "Генеративный ИИ: эксперименты с порождением контента.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "ai-scientist-all",
+          "url": "https://github.com/qqewq/ai-scientist-all",
+          "description": "AI-учёный: автоматизация научных исследований.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "emotional-ai-hybrid",
+          "url": "https://github.com/qqewq/emotional-ai-hybrid",
+          "description": "Гибридный эмоциональный ИИ.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-quantum-poetry",
+          "url": "https://github.com/qqewq/gra-quantum-poetry",
+          "description": "Квантовая поэзия на базе GRA: генеративное искусство.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Ramanujan-Generator",
+          "url": "https://github.com/qqewq/GRA-Ramanujan-Generator",
+          "description": "Генератор Рамануджана: математические структуры через GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Ramanujan-Playground",
+          "url": "https://github.com/qqewq/GRA-Ramanujan-Playground",
+          "description": "Площадка для экспериментов с Рамануджан-генератором.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-shnoll",
+          "url": "https://github.com/qqewq/gra-shnoll",
+          "description": "Эксперименты с эффектами Шнолла в рамках GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-SlimFit",
+          "url": "https://github.com/qqewq/gra-SlimFit",
+          "description": "SlimFit-оптимизация: компактные модели GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-soi",
+          "url": "https://github.com/qqewq/gra-soi",
+          "description": "SOI (Self-Organizing Intelligence) на базе GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-StructMeta",
+          "url": "https://github.com/qqewq/GRA-StructMeta",
+          "description": "Структурная мета-архитектура GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "moltnew-gra-agents",
+          "url": "https://github.com/qqewq/moltnew-gra-agents",
+          "description": "Агенты Moltnew на базе GRA.",
+          "has_readme_detail": false
+        }
+      ]
+    },
+    {
+      "name": "Early Algorithms & Notebooks",
+      "repos": [
+        {
+          "name": "gra-orthogonal-constraint1",
+          "url": "https://github.com/qqewq/gra-orthogonal-constraint1",
+          "description": "Ортогональные ограничения в GRA (версия 1).",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-orthogonal-constraints",
+          "url": "https://github.com/qqewq/gra-orthogonal-constraints",
+          "description": "Ортогональные ограничения: общая теория.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "olegka",
+          "url": "https://github.com/qqewq/olegka",
+          "description": "Ранний экспериментальный репозиторий (olegka).",
+          "has_readme_detail": false
+        },
+        {
+          "name": "olegka1",
+          "url": "https://github.com/qqewq/olegka1",
+          "description": "Ранний экспериментальный репозиторий (olegka1).",
+          "has_readme_detail": false
+        },
+        {
+          "name": "olegka2",
+          "url": "https://github.com/qqewq/olegka2",
+          "description": "Ранний экспериментальный репозиторий (olegka2).",
+          "has_readme_detail": false
+        }
+      ]
+    },
+    {
+      "name": "Digital Currency & Physical AI",
+      "repos": [
+        {
+          "name": "GRA-AALY-Digital-Currency",
+          "url": "https://github.com/qqewq/GRA-AALY-Digital-Currency",
+          "description": "Цифровая валюта AALY на базе GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-AGI-Architecture",
+          "url": "https://github.com/qqewq/GRA-AGI-Architecture",
+          "description": "Архитектура AGI через призму GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-ASI-HW-Co-Processor",
+          "url": "https://github.com/qqewq/GRA-ASI-HW-Co-Processor",
+          "description": "HW ко-процессор для ASI на базе GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Physical-AI",
+          "url": "https://github.com/qqewq/GRA-Physical-AI",
+          "description": "Физический ИИ: воплощение GRA в материи.",
+          "has_readme_detail": false
+        }
+      ]
+    },
+    {
+      "name": "Forum, Community & Other",
+      "repos": [
+        {
+          "name": "gra-forum",
+          "url": "https://github.com/qqewq/gra-forum",
+          "description": "Форум сообщества GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "gra-forum-app",
+          "url": "https://github.com/qqewq/gra-forum-app",
+          "description": "Приложение форума GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Ethnos",
+          "url": "https://github.com/qqewq/GRA-Ethnos",
+          "description": "Этнос GRA: культурные и социальные аспекты.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "https-github.com-qqewq-ai-gen",
+          "url": "https://github.com/qqewq/https-github.com-qqewq-ai-gen",
+          "description": "Зеркало/дубль репозитория ai-gen.",
+          "has_readme_detail": false
+        }
+      ]
+    }
+  ]
+}
