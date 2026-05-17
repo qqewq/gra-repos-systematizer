@@ -1,3 +1,8 @@
+https://orcid.org/my-orcid?orcid=0009-0004-1872-1153
+https://doi.org/10.5281/zenodo.20206236
+---------------------
+
+
 # 🌌 GRA & Hybrid Resonance Repositories Systematizer
 
 > Автор: **Oleg Bitsoev (qqewq)**  
