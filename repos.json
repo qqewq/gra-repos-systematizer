@@ -1,6 +1,6 @@
 {
   "author": "Oleg Bitsoev (qqewq)",
-  "total_repos": 88,
+  "total_repos": 89,
   "categories": [
     {
       "name": "GRA Core & Meta-Nulling",
@@ -393,6 +393,12 @@
           "name": "GRA-Subjectivity-Layer",
           "url": "https://github.com/qqewq/GRA-Subjectivity-Layer",
           "description": "Слой субъективности в архитектуре GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-InterSubjectivity-Layer",
+          "url": "https://github.com/qqewq/GRA-InterSubjectivity-Layer",
+          "description": "Слой межсубъектной пены Φ_AB и честного диалога между дистиллированными ИИ‑субъектами.",
           "has_readme_detail": false
         },
         {
