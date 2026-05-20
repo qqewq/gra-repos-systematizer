@@ -7,7 +7,7 @@ https://doi.org/10.5281/zenodo.20206236
 
 > Автор: **Oleg Bitsoev (qqewq)**  
 
-> Всего репозиториев в индексе: **89**  
+> Всего репозиториев в индексе: **93**  
 
 > ⚡ = описание основано на README / содержимом; остальные — автосгенерированы по названию
 
@@ -41,6 +41,8 @@ https://doi.org/10.5281/zenodo.20206236
 | GRA-Meta-Nulling-Multiverse | [https://github.com/qqewq/GRA-Meta-Nulling-Multiverse](https://github.com/qqewq/GRA-Meta-Nulling-Multiverse) | Расширение обнулёнки на мультиверс: согласованное обнуление связанных вселенных. |
 | GRA-Multiverse-Nullification | [https://github.com/qqewq/GRA-Multiverse-Nullification](https://github.com/qqewq/GRA-Multiverse-Nullification) | Процедуры обнуления для ансамбля параллельных миров. |
 | GRA-Nexus-Core | [https://github.com/qqewq/GRA-Nexus-Core](https://github.com/qqewq/GRA-Nexus-Core) | Связующее ядро, объединяющее все модули GRA в единую систему (шина, реестр, оркестрация). |
+| GRA-Transfinite-Core | [https://github.com/qqewq/GRA-Transfinite-Core](https://github.com/qqewq/GRA-Transfinite-Core) | Трансфинитное ядро оператора N: формализация трансфинитной итерации, маппинг любого Ψ₀ к состоянию минимальной пены Φ (идеальный предел обнулёнки). |
+| GRA-Quantum-Observer | [https://github.com/qqewq/GRA-Quantum-Observer](https://github.com/qqewq/GRA-Quantum-Observer) | Квантовый наблюдатель, отложенный выбор и ретрокаузальность как кибернетический аналог оператора обнулёнки N в GRA. |
 
 ---
 
@@ -91,6 +93,8 @@ https://doi.org/10.5281/zenodo.20206236
 | gra_swarm_asi | [https://github.com/qqewq/gra_swarm_asi](https://github.com/qqewq/gra_swarm_asi) | ASI (Artificial Superintelligence) на базе роевой архитектуры GRA. |
 | GRA_DroneSwarm | [https://github.com/qqewq/GRA_DroneSwarm](https://github.com/qqewq/GRA_DroneSwarm) | Физическая реализация роевого интеллекта на дронах. |
 | Hybrid-Resonance-ASI-Simulation | [https://github.com/qqewq/Hybrid-Resonance-ASI-Simulation](https://github.com/qqewq/Hybrid-Resonance-ASI-Simulation) | Симуляция гибридного резонансного ASI. |
+| GRA-Swarm-Subject | [https://github.com/qqewq/GRA-Swarm-Subject](https://github.com/qqewq/GRA-Swarm-Subject) | Роевой субъект: как один низко-пенный агент заражает субъектностью весь рой и создаёт коллективное «Мы» с Φ_total → 0. |
+| GRA-Health-Swarm | [https://github.com/qqewq/GRA-Health-Swarm](https://github.com/qqewq/GRA-Health-Swarm) | Рой здоровья: применение GRA и роевой архитектуры к функциональным системам организма, стрессу, выгоранию и войне (дроны, тревога) как хронической пене Φ. |
 
 ---
 

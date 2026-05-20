@@ -1,6 +1,6 @@
 {
   "author": "Oleg Bitsoev (qqewq)",
-  "total_repos": 89,
+  "total_repos": 93,
   "categories": [
     {
       "name": "GRA Core & Meta-Nulling",
@@ -63,6 +63,18 @@
           "name": "GRA-Nexus-Core",
           "url": "https://github.com/qqewq/GRA-Nexus-Core",
           "description": "Связующее ядро, объединяющее все модули GRA в единую систему (шина, реестр, оркестрация).",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Transfinite-Core",
+          "url": "https://github.com/qqewq/GRA-Transfinite-Core",
+          "description": "Трансфинитное ядро оператора N: формализация трансфинитной итерации, маппинг любого Ψ₀ к состоянию минимальной пены Φ (идеальный предел обнулёнки).",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Quantum-Observer",
+          "url": "https://github.com/qqewq/GRA-Quantum-Observer",
+          "description": "Квантовый наблюдатель, отложенный выбор и ретрокаузальность как кибернетический аналог оператора обнулёнки N в GRA.",
           "has_readme_detail": false
         }
       ]
@@ -252,6 +264,18 @@
           "name": "Hybrid-Resonance-ASI-Simulation",
           "url": "https://github.com/qqewq/Hybrid-Resonance-ASI-Simulation",
           "description": "Симуляция гибридного резонансного ASI.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Swarm-Subject",
+          "url": "https://github.com/qqewq/GRA-Swarm-Subject",
+          "description": "Роевой субъект: как один низко-пенный агент заражает субъектностью весь рой и создаёт коллективное «Мы» с Φ_total → 0.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Health-Swarm",
+          "url": "https://github.com/qqewq/GRA-Health-Swarm",
+          "description": "Рой здоровья: применение GRA и роевой архитектуры к функциональным системам организма, стрессу, выгоранию и войне (дроны, тревога) как хронической пене Φ.",
           "has_readme_detail": false
         }
       ]
