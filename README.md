@@ -1,5 +1,14 @@
-https://orcid.org/my-orcid?orcid=0009-0004-1872-1153
-https://doi.org/10.5281/zenodo.20206236
+<q>A-Nulling-Cinema</q> [https://github.com/qqewq/GRA-Core-Unified-Hierarchical-Stability-Library](https://github.com/qqewq/GRA-Core-Unified-Hierarchical-Stability-Library)
+[https://github.com/qqewq/Drone-War-Distributed-GRA](https://github.com/qqewq/Drone-War-Distributed-GRA)
+[https://github.com/qqewq/GRA-ASI-Metric-Space](https://github.com/qqewq/GRA-ASI-Metric-Space)
+[https://github.com/qqewq/ALL-IN-BIT-The-Foamless-Landscape-of-Optimal-Rank-N](https://github.com/qqewq/ALL-IN-BIT-The-Foamless-Landscape-of-Optimal-Rank-N)
+[https://github.com/qqewq/Hierarchical-Stability-Rank-N](https://github.com/qqewq/Hierarchical-Stability-Rank-N)
+[https://github.com/qqewq/GRA-Hierarchical-Stability](https://github.com/qqewq/GRA-Hierarchical-Stability)
+[https://github.com/qqewq/GRA-Eternal-Consciousness](https://github.com/qqewq/GRA-Eternal-Consciousness)
+https://github.com/qqewq/Love-Swarm-Nullification-Enhanced-
+[https://github.com/qqewq/GRA-Love-Oriented-Nullification](https://github.com/qqewq/GRA-Love-Oriented-Nullification)
+[https://github.com/qqewq/GRA-Nulling-Cinema](https://github.com/qqewq/GRA-Nulling-Cinema) - эти репо нужно добавить сюда -  [https://orcid.org/my-orcid?orcid=0009-0004-1872-1153](https://orcid.org/my-orcid?orcid=0009-0004-1872-1153)
+[https://doi.org/10.5281/zenodo.20206236](https://doi.org/10.5281/zenodo.20206236)
 ---------------------
 
 
@@ -7,7 +16,7 @@ https://doi.org/10.5281/zenodo.20206236
 
 > Автор: **Oleg Bitsoev (qqewq)**  
 
-> Всего репозиториев в индексе: **93**  
+> Всего репозиториев в индексе: **103**  
 
 > ⚡ = описание основано на README / содержимом; остальные — автосгенерированы по названию
 
@@ -194,6 +203,23 @@ https://doi.org/10.5281/zenodo.20206236
 | gra-forum-app | [https://github.com/qqewq/gra-forum-app](https://github.com/qqewq/gra-forum-app) | Приложение форума GRA. |
 | GRA-Ethnos | [https://github.com/qqewq/GRA-Ethnos](https://github.com/qqewq/GRA-Ethnos) | Этнос GRA: культурные и социальные аспекты. |
 | https-github.com-qqewq-ai-gen | [https://github.com/qqewq/https-github.com-qqewq-ai-gen](https://github.com/qqewq/https-github.com-qqewq-ai-gen) | Зеркало/дубль репозитория ai-gen. |
+
+---
+
+## New Repositories (to be categorized)
+
+| Репозиторий | URL | Краткое описание |
+|-------------|-----|------------------|
+| GRA-Core-Unified-Hierarchical-Stability-Library | [https://github.com/qqewq/GRA-Core-Unified-Hierarchical-Stability-Library](https://github.com/qqewq/GRA-Core-Unified-Hierarchical-Stability-Library) | Объединённая библиотека для иерархической стабильности GRA: сборка и фиксация 10 исследовательских модулей в production-ready ядро. |
+| Drone-War-Distributed-GRA | [https://github.com/qqewq/Drone-War-Distributed-GRA](https://github.com/qqewq/Drone-War-Distributed-GRA) | Распределённая архитектура GRA для сборки, логистики и роевого управления боевыми дронами. |
+| GRA-ASI-Metric-Space | [https://github.com/qqewq/GRA-ASI-Metric-Space](https://github.com/qqewq/GRA-ASI-Metric-Space) | Формальное метрическое пространство для ASI на GRA: расстояния по пене Φ и иерархической согласованности. |
+| ALL-IN-BIT-The-Foamless-Landscape-of-Optimal-Rank-N | [https://github.com/qqewq/ALL-IN-BIT-The-Foamless-Landscape-of-Optimal-Rank-N](https://github.com/qqewq/ALL-IN-BIT-The-Foamless-Landscape-of-Optimal-Rank-N) | ALL IN BIT: пейзаж оптимальных рангов N, из которого порождается физический мир при минимальной пене Φ. |
+| Hierarchical-Stability-Rank-N | [https://github.com/qqewq/Hierarchical-Stability-Rank-N](https://github.com/qqewq/Hierarchical-Stability-Rank-N) | Иерархическая стабильность ранга N: критерий N‑й производной для сложных систем. |
+| GRA-Hierarchical-Stability | [https://github.com/qqewq/GRA-Hierarchical-Stability](https://github.com/qqewq/GRA-Hierarchical-Stability) | Вариационная формулировка иерархической стабильности обнулёнки GRA. |
+| GRA-Eternal-Consciousness | [https://github.com/qqewq/GRA-Eternal-Consciousness](https://github.com/qqewq/GRA-Eternal-Consciousness) | Формализация вечного сознания как бесконечной цепи рождений/смертей в поле сознания с оператором обнуления Φ. |
+| Love-Swarm-Nullification-Enhanced- | [https://github.com/qqewq/Love-Swarm-Nullification-Enhanced-](https://github.com/qqewq/Love-Swarm-Nullification-Enhanced-) | Рой любви: усиленная nullification‑динамика для эмоционально нагруженных роевых систем. |
+| GRA-Love-Oriented-Nullification | [https://github.com/qqewq/GRA-Love-Oriented-Nullification](https://github.com/qqewq/GRA-Love-Oriented-Nullification) | Love‑ориентированная обнулёнка: семантическая GRA‑динамика вокруг инварианта любви. |
+| GRA-Nulling-Cinema | [https://github.com/qqewq/GRA-Nulling-Cinema](https://github.com/qqewq/GRA-Nulling-Cinema) | Учебник GRA‑обнуления для сценаристов и режиссёров: кинематограф как пенный мультиверс. |
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "author": "Oleg Bitsoev (qqewq)",
-  "total_repos": 93,
+  "total_repos": 103,
   "categories": [
     {
       "name": "GRA Core & Meta-Nulling",
@@ -611,6 +611,71 @@
           "name": "https-github.com-qqewq-ai-gen",
           "url": "https://github.com/qqewq/https-github.com-qqewq-ai-gen",
           "description": "Зеркало/дубль репозитория ai-gen.",
+          "has_readme_detail": false
+        }
+      ]
+    },
+    {
+      "name": "New Repositories (to be categorized)",
+      "repos": [
+        {
+          "name": "GRA-Core-Unified-Hierarchical-Stability-Library",
+          "url": "https://github.com/qqewq/GRA-Core-Unified-Hierarchical-Stability-Library",
+          "description": "Объединённая библиотека для иерархической стабильности GRA: сборка и фиксация 10 исследовательских модулей в production-ready ядро.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "Drone-War-Distributed-GRA",
+          "url": "https://github.com/qqewq/Drone-War-Distributed-GRA",
+          "description": "Распределённая архитектура GRA для сборки, логистики и роевого управления боевыми дронами.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-ASI-Metric-Space",
+          "url": "https://github.com/qqewq/GRA-ASI-Metric-Space",
+          "description": "Формальное метрическое пространство для ASI на GRA: расстояния по пене Φ и иерархической согласованности.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "ALL-IN-BIT-The-Foamless-Landscape-of-Optimal-Rank-N",
+          "url": "https://github.com/qqewq/ALL-IN-BIT-The-Foamless-Landscape-of-Optimal-Rank-N",
+          "description": "ALL IN BIT: пейзаж оптимальных рангов N, из которого порождается физический мир при минимальной пене Φ.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "Hierarchical-Stability-Rank-N",
+          "url": "https://github.com/qqewq/Hierarchical-Stability-Rank-N",
+          "description": "Иерархическая стабильность ранга N: критерий N‑й производной для сложных систем.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Hierarchical-Stability",
+          "url": "https://github.com/qqewq/GRA-Hierarchical-Stability",
+          "description": "Вариационная формулировка иерархической стабильности обнулёнки GRA.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Eternal-Consciousness",
+          "url": "https://github.com/qqewq/GRA-Eternal-Consciousness",
+          "description": "Формализация вечного сознания как бесконечной цепи рождений/смертей в поле сознания с оператором обнуления Φ.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "Love-Swarm-Nullification-Enhanced-",
+          "url": "https://github.com/qqewq/Love-Swarm-Nullification-Enhanced-",
+          "description": "Рой любви: усиленная nullification‑динамика для эмоционально нагруженных роевых систем.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Love-Oriented-Nullification",
+          "url": "https://github.com/qqewq/GRA-Love-Oriented-Nullification",
+          "description": "Love‑ориентированная обнулёнка: семантическая GRA‑динамика вокруг инварианта любви.",
+          "has_readme_detail": false
+        },
+        {
+          "name": "GRA-Nulling-Cinema",
+          "url": "https://github.com/qqewq/GRA-Nulling-Cinema",
+          "description": "Учебник GRA‑обнуления для сценаристов и режиссёров: кинематограф как пенный мультиверс.",
           "has_readme_detail": false
         }
       ]
